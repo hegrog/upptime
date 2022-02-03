@@ -3,8 +3,8 @@ owner: hegrog # Your GitHub organization or username, where this repository live
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Blinlab
+    url: https://blinlab.co
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
