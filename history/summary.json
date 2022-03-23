@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/blinlab.co",
     "slug": "blinlab",
     "status": "up",
-    "uptime": "98.13%",
+    "uptime": "98.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.57%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "97.12%",
-    "uptimeYear": "98.13%",
+    "uptimeYear": "98.17%",
     "time": 303,
-    "timeDay": 332,
-    "timeWeek": 274,
+    "timeDay": 288,
+    "timeWeek": 276,
     "timeMonth": 288,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 378,
-    "timeWeek": 191,
-    "timeMonth": 200,
-    "timeYear": 195,
+    "time": 194,
+    "timeDay": 128,
+    "timeWeek": 194,
+    "timeMonth": 191,
+    "timeYear": 194,
     "dailyMinutesDown": {
       "2022-03-08": 18
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 392,
-    "timeWeek": 305,
-    "timeMonth": 314,
-    "timeYear": 303,
+    "time": 301,
+    "timeDay": 211,
+    "timeWeek": 315,
+    "timeMonth": 308,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2022-02-24": 20
     }
