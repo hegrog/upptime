@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Blinlab
     url: https://blinlab.co
+  - name: Posicionato
+    url: https://posicionato.co
+  - name: Up The NetWork
+    url: https://upthenetwork.co
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
