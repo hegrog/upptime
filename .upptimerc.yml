@@ -9,6 +9,10 @@ sites:
     url: https://posicionato.co
   - name: Up The NetWork
     url: https://upthenetwork.com
+  - name: Evolucion TI
+    url: https://evolucionti.com
+  - name: Evolucion TI - EUNO
+    url: https://euno.evolucionti.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
